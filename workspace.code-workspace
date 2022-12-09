@@ -1,10 +1,10 @@
 {
   "folders": [
-	{
-		"path": "."
-	}
-],
+    {
+      "path": "."
+    }
+  ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "web-inicio"
+    "liveServer.settings.multiRootWorkspaceName": "integradoweb-main"
   }
 }
